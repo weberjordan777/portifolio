@@ -1,6 +1,25 @@
+.menu{
+    background-color:rgb(194, 255, 192);
+    width: 450w;
+    }
+
+  
+
+
+            
+
+
+              
+
+
+
+
+
 body{
-    background-color: rgb(219, 186, 186);
+    background-color: rgb(196, 165, 165);
     color:rgb(1, 5, 8);
+    font-family: Arial;
+    text-align: center;
 }
 
 strong{
